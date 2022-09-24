@@ -6,3 +6,4 @@ print("Regular Price : Rs. 185")
 print("Old loaves Amount : Rs. ",rate_old)
 print("New loaves Amount : Rs. ",rate_new)
 print("Total Amount : Rs. ",rate_old+rate_new)
+
