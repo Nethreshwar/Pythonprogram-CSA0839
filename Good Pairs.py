@@ -12,3 +12,4 @@ for i in range(0,b):
     n.append(c)
 print("LIST:",n)
 print(num(n))
+
