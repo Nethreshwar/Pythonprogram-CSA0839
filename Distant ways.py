@@ -6,3 +6,4 @@ def countWays(s):
 	return fib(s+1)
 s=int(input("Enter the number of steps :"))
 print("Number of ways =",countWays(s))
+
