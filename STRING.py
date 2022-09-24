@@ -13,3 +13,4 @@ def addfrequencytocharacter(s):
     print("".join(s))
 str=input("enter a string:")
 addfrequencytocharacter([i for i in str])
+
