@@ -23,3 +23,4 @@ def isNumber(S) -> bool:
     return num
 a=input("S=")
 print(isNumber(a))
+
