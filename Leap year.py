@@ -6,3 +6,4 @@ if(n>0 and n.is_integer()):
         print("it is not a leap year")
 else:
     print("not a valid input")
+    
