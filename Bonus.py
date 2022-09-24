@@ -12,3 +12,4 @@ elif a=='B' and b<10000:
 print("salary=",b)
 print("Bonus=",bo)
 print("Total to be paid:",b+bo)
+
