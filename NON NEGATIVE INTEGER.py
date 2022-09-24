@@ -12,3 +12,4 @@ if(a>0):
         b.append(c)
 print("INPUT array =",b)
 print("OUTPUT=",maxArea(b,a))
+
