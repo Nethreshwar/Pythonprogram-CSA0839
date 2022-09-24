@@ -7,8 +7,8 @@ try:
             r=r*10+d
             a=a//10
     else:
-        c=str(a)
-        r=c[::-1]
+        b=str(a)
+        r=b[::-1]
     print("Mirror image:",r)
 except ValueError:
     print("Enter the valied input")
