@@ -1,7 +1,7 @@
 def deleteChar(string,char):
     newstr = "" 
     for ch in string:
-        if ch != char:
+        if ch!= char:
             newstr+=ch
     return newstr
 string = input("Enter a string: ")
