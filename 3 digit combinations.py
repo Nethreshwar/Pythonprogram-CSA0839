@@ -13,4 +13,5 @@ if(n>0 and n<=999):
 if(n<0):
     print("POSITIVE NUMBER REQUIRED!")
 if(n>=1000):
+    
     print("ENTERED NUMBER IS BIGGER THAN EXPECTED!")
