@@ -7,3 +7,5 @@ for i in range(0,a):
 perm = permutations(nums) 
 for i in list(perm): 
     print (i)
+
+    
