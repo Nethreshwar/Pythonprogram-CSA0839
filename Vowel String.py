@@ -9,3 +9,4 @@ def countvowelstrings(n):
     return countstrings(n,0)
 n=int(input("enter input"))
 print(countvowelstrings(n))
+
