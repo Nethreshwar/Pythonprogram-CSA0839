@@ -1,6 +1,6 @@
 r=int(input())
-a=[]
+b=[]
 for i in range(1, r + 1):
     if (i**(.5) == int(i**(.5))):
-        a.append(i)
-print(len(a))
+        b.append(i)
+print(len(b))
