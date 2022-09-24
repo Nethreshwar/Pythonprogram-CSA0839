@@ -18,3 +18,4 @@ for j in range(0,a):
     s=int(input("Price ="))
     price.append(s)
 print ("Maximum profit is", maxProfit(price, len(price)))
+
