@@ -10,7 +10,6 @@ def minJumps(arr, l, h):
 			if (jumps != float('inf') and
 					jumps + 1 < min):
 				min = jumps + 1
-
 	return min
 arr = []
 a=int(input("Enter the size of the list :"))
