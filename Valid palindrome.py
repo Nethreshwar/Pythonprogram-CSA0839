@@ -8,3 +8,4 @@ if (isPalindrome(s)):
     print ("True")
 else:
     print ("False")
+    
