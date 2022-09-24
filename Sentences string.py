@@ -21,3 +21,4 @@ def removeCommonWords(sent1, sent2):
 sentence1 = input("Sentence 1 =")
 sentence2 = input("Sentence 2 =")
 removeCommonWords(sentence1, sentence2)
+
