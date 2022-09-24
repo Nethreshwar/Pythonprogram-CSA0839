@@ -10,4 +10,5 @@ if s == p or p == {'0'} or p == {'1'} and s ==x or x == {'0'} or x == {'1'} :
     d=c[2:]
     print(d)
 else:
+    
     print("Enter only 0 or 1 ")
