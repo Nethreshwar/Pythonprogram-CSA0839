@@ -14,3 +14,4 @@ if n>0:
         print(s)
 else:
     print("Input is invalid")
+    
