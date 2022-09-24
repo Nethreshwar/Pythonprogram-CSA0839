@@ -7,4 +7,5 @@ for i in range(len(x)):
     else:
         l+=1
 print("The length of last word is",l)
+
                     
