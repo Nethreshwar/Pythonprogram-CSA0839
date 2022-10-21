@@ -1,0 +1,6 @@
+n=list(map(int,input("List of elements :").split()))
+n.sort()
+c=list(reversed(n))
+d=int(input("M ="))
+e=int(input("N ="))
+print("Maximum number=",c[d-1],"\nMinimum number=",n[e-1],"\nSum=",c[d-1]+n[e-1],"\nDifference=",c[d-1]-n[e-1])
